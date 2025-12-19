@@ -1,2 +1,10 @@
-en el actual respositorio podemos encontrar los puntos a desarrollar para la 1º evaluacion del bootcamp de data analytic en adalab
-se indican los puntos a resolver. 
+ESTE PROYECTO ARRANCA CON LA ILUSION Y LAS GANAS DE QUERER APRENDER Y AVANZAR
+
+EMPEZAMOS CON EL DESARROLLO DE LAS PREGUNTAS DE LA 1º EVALUACION DE DATA ANALYTIC EN ADALAB
+
+CONFOMRE SE VA ENTENDIENDO, SE VA DESARROLLANDO. 
+
+CON MUCHO MIEDO PERO AL MISMO TIEMPO MUCHA ILUSION
+
+
+:)
